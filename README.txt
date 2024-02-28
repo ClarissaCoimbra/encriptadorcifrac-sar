@@ -1,4 +1,7 @@
 ***************************************---------------------------------------------------------*********************************
+ESSA PÁGINA NÃO ABRE DIREITO NO OPERA, MAS FUNCIONA NORMALMENTE NO GOOGLE CHROME, NO EDGE E NO MOZILLA FIREFOX.
+
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ESSE PEQUENO PROJETO FOI ELABORADO A PARTIR DAS DIRETRIZES INDICADAS NO CURSO Challenge ONE EM PARCERIA COM A ALURA.
 
 USEI DUAS OUTRAS FONTES COMO AJUDA NO PROCESSO DE ENCRIPTAÇÃO JAVASCRIPT:
