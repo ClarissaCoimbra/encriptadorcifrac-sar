@@ -1,0 +1,277 @@
+body {
+      margin: 0;
+      padding: 2%;
+      background-image: linear-gradient (to top, #5cffc0, transparent, #766090);
+      background-color: #5cffc0;
+}
+
+
+
+#decrypt {
+      margin-top: 30px;
+      margin-left: 30px;
+      border-radius: 10%;
+      display: block;
+      box-sizing: border-box;
+      width: 150px;
+      justify-content: center;
+      font-size: large;
+      font-weight: bolder;
+      font-family: 'Helvetica Neue', serif;
+}
+
+#copy,
+#encrypt {
+      margin-top: 30px;
+      border-radius: 7%;
+      display: box;
+      box-sizing: border-box;
+      width: 150px;
+      justify-content: center;
+      font-size: large;
+      font-weight: bolder;
+      font-family: 'Helvetica Neue', serif;
+      padding: 1%;
+      margin-left: 30px;
+}
+
+
+
+
+#buttons-container input {
+      width: 70px;
+      margin: 5 15 5 15;
+
+}
+
+#key {
+      width: 50px;
+      height: 20px;
+      margin-left: 30px;
+}
+
+#text {
+      position: absolute;
+      box-sizing: border-box;
+      height: 200px;
+      width: 500px;
+      font-size: 18px;
+      font-family: 'Helvetica Neue', serif;
+}
+
+.first-section {
+      margin: 1rem;
+      text-align: left;
+      display: block;
+      box-sizing: border-box;
+      padding: 2rem 2rem;
+      margin-top: 10px;
+      margin-left: 5px;
+      text-align: right;
+
+}
+
+.first-section01 {
+      display: block;
+      box-sizing: border-box;
+      padding: 1rem 1rem;
+      width: 620px;
+      height: 650px;
+      text-align: left;
+      margin-top: 50px;
+      margin-bottom: 185px;
+      font-size: large;
+
+}
+
+#type-text {
+      border: 6px groove #e6ccff;
+      border-radius: 7px;
+}
+
+
+textarea {
+      position: relative;
+      margin-left: 5px;
+      margin-top: 10px;
+      width: 500px;
+      height: 200px;
+}
+
+#chave {
+      font-size: large;
+      font-family: 'Helvetica Neue', serif;
+      margin-top: 200px;
+      margin-left: 10px;
+}
+
+
+#key {
+      font-size: medium;
+      font-family: 'Helvetica Neue', serif;
+      margin-top: 20px;
+      margin-left: 10px;
+}
+
+#encrypt {
+      margin-top: 20px;
+      margin-left: 10px;
+
+}
+
+#encrypt,
+#decrypt,
+#copy {
+      display: inline-block;
+      border: 5px groove #e6ccff;
+}
+
+#decrypt {
+      height: 38px;
+      border-radius: 7%;
+}
+
+#explain {
+      font-size: small;
+}
+
+#digitar {
+      font-size: large;
+      font-family: 'Helvetica Neue', serif;
+      font-weight: bold;
+      font-style: oblique;
+
+}
+
+
+#desfazer {
+      font-size: larger;
+      font-weight: bold;
+      font-style: oblique;
+      padding: 5%;
+}
+
+
+img {
+      width: 500px;
+      height: 650px;
+      float: right;
+      margin-top: 50px;
+      margin-bottom: 185px;
+}
+
+
+/*----------- daqui para baixo começam as redes sociais ------------------------------------*/
+
+
+#linkedin {
+      width: 25px;
+      height: 20px;
+      padding: 0;
+      margin-top: 0;
+      margin-left: 650px;
+      margin-right: 2px;
+      font-family: 'Helvetica Neue', serif;
+
+}
+
+#github {
+      width: 25px;
+      height: 20px;
+      margin-left: 50px;
+      padding-inline-start: 0;
+      margin-top: 0;
+      margin-left: 15px;
+      font-family: 'Helvetica Neue', serif;
+}
+
+.container1 {
+      width: 100px;
+      height: 90px;
+      display: flex;
+      justify-content: flex-start;
+}
+
+.container1:first-child {
+      width: 100px;
+      height: 90px;
+      white-space: nowrap;
+      display: inline-block;
+}
+
+.container2 {
+      width: 100px;
+      height: 90px;
+      display: flex;
+      justify-content: flex-start;
+}
+
+.container2:first-child {
+      width: 87px;
+      height: 90px;
+      white-space: nowrap;
+      display: inline-block;
+}
+
+
+.second {
+      display: inline;
+      padding: 0;
+}
+
+#link1, #link2 {
+      font-size: larger;
+      font-family: 'Helvetica Neue', serif;
+      padding: 1px 1px;
+      text-align: center;
+}
+
+
+#linkedin,
+#link1 {
+      white-space: nowrap;
+      padding: 1rem, 1rem;
+}
+
+
+#github,
+#link2 {
+      white-space: nowrap;
+      padding: 1rem, 1rem;
+}
+
+.cat {
+      text-align: left;
+      display: block;
+      box-sizing: border-box;
+      margin-top: 0rem;
+      margin-left: 4rem;
+      margin-right: 70rem;
+      margin-bottom: 0rem;
+
+}
+
+#cat {
+      box-sizing: border-box;
+      width: 300px;
+      height: 250px;
+      text-align: left;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      margin-left: 2rem;
+      border: 15px double #cc66ff;
+      border-radius: 7px;
+
+}
+
+.max-container {
+      border: 4px outset #d580ff;
+      border-radius: 7px;
+      width: 243px;
+      height: 350px;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      padding: 39px;
+      margin-top: 2px;
+      margin-left: 25px;
+}
